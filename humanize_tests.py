@@ -1,5 +1,4 @@
 import pytest
-from evo_task import num_to_human, N2W
 from humanize import humanize, ERROR_STRING
 
 
