@@ -3,7 +3,7 @@ The program allows you to translate numbers into words.
 
 For example:
 
-``text
+``
 3 + 7 = 10 -> three plus seven equals ten
 ``
 
